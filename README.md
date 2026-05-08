@@ -1,4 +1,4 @@
-🤖 Hendelek Assistant Bot
+ Hendelek Assistant Bot
 
 Telegram bot powered by Groq AI (LLaMA 3)
 
